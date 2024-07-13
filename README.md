@@ -11,6 +11,19 @@
   <img src="gifs/1.gif" alt="Description of GIF" width="300" height="600" />
 </p>
 
+<div style="display: flex; align-items: center;">
+  <a href="https://drive.google.com/file/d/1IYSN3gQTmPgAFDBUGE6I_-hSIG2tQ74f/view" target="_blank" style="display: inline-flex; align-items: center;">
+    <!-- <img src="https://cdn-icons-png.flaticon.com/512/727/727245.png" alt="Play Video" style="width: 50px; height: auto; margin-right: 10px;"> -->
+
+  <img src="https://cdn-icons-png.flaticon.com/512/7477/7477009.png" alt="Play Video" style="width: 50px; height: auto; margin-right: 10px; margin-bottom : 10px;">
+   <Text>Watch Video </Text>
+  </a>
+ 
+</div>
+
+
+
+
 MovieMate is a user-friendly application that provides an engaging way to explore movies. With MovieMate, you can search for movies, view detailed information, watch trailers, check ratings, read summaries, and see cast information—all in one place.
 
 ## Features
